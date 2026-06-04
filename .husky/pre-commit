@@ -1,0 +1,2 @@
+export PATH="$PATH:/c/Users/daria/AppData/Local/fnm_multishells/$(ls -t /c/Users/daria/AppData/Local/fnm_multishells | head -1)"
+node_modules/.bin/lint-staged
